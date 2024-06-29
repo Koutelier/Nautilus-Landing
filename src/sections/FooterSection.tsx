@@ -49,8 +49,16 @@ export default function FooterSection() {
                 </div>
 
                 <span className="text-app_gray text-sm">
-                    All rights reserved &#169; <b>{new Date().getFullYear()}.</b>
-                </span>
+      All rights reserved &#169; <b>{new Date().getFullYear()}.</b> Made by 
+      <a 
+        href="https://github.com/Koutelier" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="text-highlight font-bold ml-1"
+      >
+        Koutelier
+      </a>
+    </span>
             </div>
             {/* Right Section */}
             <div className="row md:gap-24 gap-6">
