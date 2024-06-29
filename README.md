@@ -33,4 +33,4 @@ To get started with Nautilus Wallet, follow these steps:
 
 ---
 
-© {Current Year} Nautilus Wallet. All rights reserved.
+© 2024 Nautilus Wallet. All rights reserved.
