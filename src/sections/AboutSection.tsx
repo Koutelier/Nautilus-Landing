@@ -18,7 +18,7 @@ export default function AboutSection() {
                     subHeading="Captain Nemo: Innovating the Future of Digital Finance."
                 />
                 <span className="text-app_gray/80 leading-8 text-xl">
-                Captain Nemo is at the forefront of the digital finance revolution, pioneering advancements in Web3 wallet development. With a keen focus on security, usability, and interoperability, Nemo is shaping the way users interact with decentralized finance, making blockchain technology more accessible and efficient for everyone.
+                Captain Nemo is at the forefront of the digital finance revolution, pioneering advancements in Web3 wallet development. With a keen focus on security, usability, and interoperability, Nemo is shaping the way users interact with decentralized finance, making blockchain technology more accessible and efficient for anyone.
                 </span>
                 <div className="row gap-2">
                     {tags.map((tag, i) => (

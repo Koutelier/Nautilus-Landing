@@ -13,7 +13,7 @@ const cards: CardProps[] = [
         icon: <MdOutlineVerifiedUser size={44} color="#71dcf5" />,
         title: "Strong Security",
         description:
-            "Nautilus doesn't trace or store any data. You can rest assure your funds are SAFU",
+            "Nautilus doesn't trace or store any data. You can rest assured your funds are SAFU",
     },
     {
         icon: <RiWallet3Line size={44} color="#948fe8" />,
@@ -25,7 +25,7 @@ const cards: CardProps[] = [
         icon: <AiOutlineCheckCircle size={44} color="#ea9bfa" />,
         title: "Sandboxed NFT Gallery",
         description:
-            "With the NFT sandbox gallery you are safe from any malicious attack trough NFT's",
+            "With the NFT sandbox gallery you are safe from malicious attacks.",
     },
 ];
 

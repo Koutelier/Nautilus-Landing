@@ -14,7 +14,7 @@ const cards = [
     {
         id: 3,
         title: "Mempool chaining support",
-        desc: "We have been experimenting with mempool chaining for some time , it can really improve the user's perception of performance and fluidity",
+        desc: "We have been experimenting with mempool chaining for some time , it will improve the user's perception of performance and fluidity",
     },
 ];
 

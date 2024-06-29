@@ -9,7 +9,7 @@ const questions: QAProps[] = [
     },
     {
         question: "In which platforms can I download Nautilus Wallet?",
-        answer: "So far Nautilus is supported as an extension on browser but the devs are working on delivering a new mobile version as well.",
+        answer: "So far Nautilus is supported as an extension on chrome and firefox browser but the devs are working on delivering a new mobile version as well.",
     },
     {
         question: "Is it safe to use Nautilus?",
@@ -21,7 +21,7 @@ const questions: QAProps[] = [
     },
     {
         question: "Is my data saved?",
-        answer: "Captain nemo has high standards about security and personal data , so you can rest assure that nautilus wallets doesn't trace or store personal data!",
+        answer: "Captain nemo has high standards about security and personal data , so you can rest assured that nautilus wallets doesn't trace or store personal data!",
     },
     {
         question: "Does Nautilus have fees?",
