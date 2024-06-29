@@ -33,7 +33,7 @@ const questions: QAProps[] = [
     },
     {
         question: "Can i recover my yoroi wallet?",
-        answer: `There is an open source <a href="https://github.com/satsen/yoroi-ergo-wallet-recover" style="color: #1e90ff;">Tool</a>for that reason. <strong>Use it on your own Risk</strong>`,
+        answer: `There is an open source <a href="https://github.com/satsen/yoroi-ergo-wallet-recover" style="color: #1e90ff;">Tool</a> for that reason. <strong>Use it on your own Risk</strong>`,
     },
 ];
 
