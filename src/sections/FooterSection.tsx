@@ -3,7 +3,7 @@ import { FaGithub, FaCoins, FaTelegramPlane } from "react-icons/fa";
 import { RiDiscordFill } from "react-icons/ri";
 
 const socialIcons = [
-    { Icon: AiOutlineTwitter, link: "https://x.com/nautiluswallete" },
+    { Icon: AiOutlineTwitter, link: "https://x.com/nautiluswallet" },
     { Icon: FaCoins, link: "https://explorer.ergoplatform.com/en/addresses/9iPgSVU3yrRnTxtJC6hYA7bS5mMqZtjeJHrT3fNdLV7JZVpY5By" },
     { Icon: RiDiscordFill, link: "https://discord.gg/2BxVr8M9xW" },
     { Icon: FaTelegramPlane, link: "hhttps://t.me/+TA9m2R6BEfwxMjRh" },
